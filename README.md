@@ -1,4 +1,4 @@
-# Project_3
+# Stock_Prediction_Project_with_Matchine_Learning
 
 Group2
 Kevin Sheekey
